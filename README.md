@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 <h1 align="center">Hi 👋, I'm Arin</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
@@ -22,15 +24,14 @@ Here are some ideas to get you started:
 - 📫 How to reach me **arin2003mahapatro@gmail.co**
 
 <h3 align="left">Connect with me:</h3>
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 <p align="left">
 <a href="https://twitter.com/mahapatro_arin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mahapatro_arin" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/arin-mahapatro/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/arin-mahapatro/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/arin-mahapatro/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arin-mahapatro/" height="30" width="40" /></a>
 <a href="https://instagram.com/__arinnn__.25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__arinnn__.25" height="30" width="40" /></a>
-<a href="https://hashnode.com/https://imarin.hashnode.dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="https://imarin.hashnode.dev/" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/https://codeforces.com/profile/stuartlittle_25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/stuartlittle_25" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/stuart_little25/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/stuart_little25/" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/arin2003mahapatro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/arin2003mahapatro" height="30" width="40" /></a>
+<a href="https://hashnode.com/imarin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="imarin" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/stuartlittle_25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="stuartlittle_25" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/stuart_little25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="stuart_little25" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/arin2003mahapatro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="arin2003mahapatro" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -41,4 +42,3 @@ Here are some ideas to get you started:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arin0110&show_icons=true&locale=en" alt="arin0110" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arin0110&" alt="arin0110" /></p>
-
